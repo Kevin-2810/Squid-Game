@@ -1,5 +1,7 @@
+#Play This Game:-
+https://kevin-2810.github.io/Squid-Game/
 # Alchemy Squid Games 
-* Andrew Joy, Indy Holdsworth, Phoenix Nicholson, Kevin Do
+* FrontMan, Kevin, Shivam, Parixit etc.
 * Description: You are in debt because of your tuition to Alchemy Code Lab. You're desperate to pay it off so you sign up.. for the squid game.. 
 * Problem Domain: This project will serve as an immersion for the user to feel like they are in the squid games (without the dying part)
 * We will be using HTML, CSS, and JavaScript for this project
