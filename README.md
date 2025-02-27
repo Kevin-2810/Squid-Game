@@ -1,5 +1,6 @@
 #Play This Game:-
-https://kevin-2810.github.io/Squid-Game/
+<a href="https://kevin-2810.github.io/Squid-Game/" class="read-more-btn link" >Live Demo</a>
+
 # Alchemy Squid Games 
 * FrontMan, Kevin, Shivam, Parixit etc.
 * Description: You are in debt because of your tuition to Alchemy Code Lab. You're desperate to pay it off so you sign up.. for the squid game.. 
